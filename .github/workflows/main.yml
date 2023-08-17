@@ -46,8 +46,4 @@ jobs:
 
           name: Epsilon4
 
-          path:  ./build/libs/Loader/Loader-*.jar
-
-                 ./build/libs/Client/Client-*.jar
-
-                 ./build/libs/Debug/Debug-*.jar
+          path:  ./build/libs/*
