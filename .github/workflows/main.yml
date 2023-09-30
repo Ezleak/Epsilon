@@ -46,4 +46,4 @@ jobs:
 
           name: Epsilon4
 
-          path:  /Epsilon4/out/*
+          path:  ./
