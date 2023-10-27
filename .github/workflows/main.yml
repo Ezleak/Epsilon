@@ -46,4 +46,6 @@ jobs:
 
           name: Epsilon4
 
-          path:  ./
+          path:  ./Loader/build/libs
+                 ./Client/build/libs
+                 ./Debug/build/libs
